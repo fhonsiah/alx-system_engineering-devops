@@ -13,3 +13,5 @@
    use the command # mkdir /tmp/my_first_directory
 7. create a scripts that moves a file from one directory into another directory
    use the command # mv  /dirA  /dirB/
+8. Delete the file in a certain directory
+   use the command # rm /tmp/my_first_directory/betty
