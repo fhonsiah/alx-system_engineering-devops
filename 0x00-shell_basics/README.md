@@ -15,3 +15,5 @@
    use the command # mv  /dirA  /dirB/
 8. Delete the file in a certain directory
    use the command # rm /tmp/my_first_directory/betty
+9. Delete a directory inside another directory
+   use the command # rmdir /tmp/my_first_directory
