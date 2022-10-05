@@ -3,3 +3,4 @@
    use the command # pwd
 2. Display the content list of your current directory
    use the command # ls
+3. A script thaat changes the working directory to the user's home director   y. Use the command  # cd
