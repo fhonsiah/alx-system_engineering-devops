@@ -17,3 +17,5 @@
    use the command # rm /tmp/my_first_directory/betty
 9. Delete a directory inside another directory
    use the command # rmdir /tmp/my_first_directory
+10. A script that changes the working directory into the previous one
+   use the command # cd -
