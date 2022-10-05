@@ -23,3 +23,5 @@
     use the command # ls -la . .. /boot
 12. A script that prints the type of file iamafile that is located in the directory /tmp
     use the command # file /tmp/iamafile
+13. Create a symbolic link to /bin/ls named __ls__
+    use the command # ln -s /bin/ls __ls__
