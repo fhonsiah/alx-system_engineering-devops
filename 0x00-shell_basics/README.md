@@ -19,3 +19,5 @@
    use the command # rmdir /tmp/my_first_directory
 10. A script that changes the working directory into the previous one
    use the command # cd -
+11. A script that list all files (even the hidden ones beggining with a period character,paretnt of the working directory & the /boot directory
+    use the command # ls -la . .. /boot
