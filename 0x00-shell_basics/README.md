@@ -11,3 +11,5 @@
    use the command # ls -la
 6. Create a script that creates a directory named my_first_directory in the /tmp/ directory
    use the command # mkdir /tmp/my_first_directory
+7. create a scripts that moves a file from one directory into another directory
+   use the command # mv  /dirA  /dirB/
