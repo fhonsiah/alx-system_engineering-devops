@@ -7,3 +7,5 @@
    use the command  # cd
 4. Display current directory contents in a long format
    use the command # ls -l
+5. Display current directory contents,including hidden files(starting with .)
+   use the command # ls -la
