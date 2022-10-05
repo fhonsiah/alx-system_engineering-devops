@@ -21,3 +21,5 @@
    use the command # cd -
 11. A script that list all files (even the hidden ones beggining with a period character,paretnt of the working directory & the /boot directory
     use the command # ls -la . .. /boot
+12. A script that prints the type of file iamafile that is located in the directory /tmp
+    use the command # file /tmp/iamafile
