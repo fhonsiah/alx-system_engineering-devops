@@ -28,4 +28,6 @@
 14. A script that copies all the html files from one directory to another,but only copy files that do not exist in the parent directory
     use the command # cp -i *.html ..
 15. A script that moves all files beggining with uppercase letters to the directory /tmp/u
-    use the command # mv [[ upper ]]* /tmp/u 
+    use the command # mv [[ upper ]]* /tmp/u
+16. A script that delete all files in the current working directory that end with the character ~.
+    use the comand # rm *~ 
