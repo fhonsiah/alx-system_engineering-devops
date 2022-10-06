@@ -35,3 +35,6 @@
     use  the command # mkdir welcome/to/school
 18. A script that lists all the files in the current directory separated by commas (,)
     use the command # ls -map
+19. Create a magic file school.mgc that can be used with the command file to detect Schollol data files
+    use the command # 0 string SCHOOL School data
+                    !:mime School
