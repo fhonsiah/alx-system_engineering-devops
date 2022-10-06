@@ -32,4 +32,6 @@
 16. A script that delete all files in the current working directory that end with the character ~.
     use the command # rm *~ 
 17. A script that creates several directories welcome,to and school.
-    use  the command # mkdir /welcome/to/school
+    use  the command # mkdir welcome/to/school
+18. A script that lists all the files in the current directory separated by commas (,)
+    use the command # ls -map
