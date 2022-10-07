@@ -8,3 +8,5 @@ Tasks
   use the command # groups
 3. A script that changes to owner of the file hello to betty
   use the command # chown betty hello
+4.A script that creates an empty file called hello
+  use the command # touch hello
