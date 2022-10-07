@@ -10,3 +10,5 @@ Tasks
   use the command # chown betty hello
 4.A script that creates an empty file called hello
   use the command # touch hello
+5. A script that adds execute permissions to the owner of the file hello
+  use the command # chmod u+x hello
