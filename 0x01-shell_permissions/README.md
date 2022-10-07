@@ -14,3 +14,5 @@ Tasks
   use the command # chmod u+x hello
 6. A script that adds execute permissions to the owner and the group owner, and read permissions to the user.
   use the command # chmod ug+x,o+r hello
+7. A script that adds execute permisiions to the owner,the group owner and the other users, to the file hello
+   use the command # chmod a+x hello
