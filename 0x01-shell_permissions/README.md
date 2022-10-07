@@ -18,3 +18,5 @@ Tasks
    use the command # chmod a+x hello
 8. A script that adds permission to read,write and execute to other users, no permissions to the owner,the group owner.
    use the command # chmod 007 hello
+9.A script that sets the mode of the file hello to this: -rwxr-x-wx 1 julien 23 Sep 20 14:25 hello.
+  use the command # chmod 753 hello
