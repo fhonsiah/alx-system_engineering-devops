@@ -2,3 +2,5 @@
 Tasks
 0.Ascript that swithes the current user to the user betty.
   use the command # su betty
+1.A script that the effective username of the current user
+  use the command # whoami
