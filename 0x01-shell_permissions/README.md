@@ -20,3 +20,5 @@ Tasks
    use the command # chmod 007 hello
 9.A script that sets the mode of the file hello to this: -rwxr-x-wx 1 julien 23 Sep 20 14:25 hello.
   use the command # chmod 753 hello
+10. A script that sets the mode of the file hello the same as olleh's mode.
+   use the command # chmod --reference-olleh hello
