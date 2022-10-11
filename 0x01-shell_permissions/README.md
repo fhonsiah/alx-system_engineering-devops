@@ -24,3 +24,5 @@ Tasks
    use the command # chmod --reference=olleh hello
 # 11.A script that adds execute permissions to all subdirectories of the current directory for the owner,the group owner and all the users.
   use the command # find . -type d -exec chmod ugo+x {} +
+# 12.A script that creates a irectory callded my_dir with permissions 751 in the working directory.
+  use the command # mkdir -m 751 my_dir
