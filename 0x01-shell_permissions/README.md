@@ -23,4 +23,4 @@ Tasks
 # 10.A script that sets the mode of the file hello the same as olleh's mode.
    use the command # chmod --reference=olleh hello
 # 11.A script that adds execute permissions to all subdirectories of the current directory for the owner,the group owner and all the users.
-  use the command # sudo find . -type d -exec chmod ugo=+x {} \;
+  use the command # find . -type d -exec chmod ugo+x {} +
