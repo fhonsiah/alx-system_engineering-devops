@@ -28,3 +28,5 @@ Tasks
   use the command # mkdir -m 751 my_dir
 # 13. A script that changes the group owner to school of the file hello
   use the command # chgrp school hello
+# 14. A script that changes the owner to vincent and the group pwner to staff for all the files and directories
+  use the command # chown vincent:staff *
