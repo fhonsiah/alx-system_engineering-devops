@@ -26,3 +26,5 @@ Tasks
   use the command # find . -type d -exec chmod ugo+x {} +
 # 12.A script that creates a irectory callded my_dir with permissions 751 in the working directory.
   use the command # mkdir -m 751 my_dir
+# 13. A script that changes the group owner to school of the file hello
+  use the command # chgrp school hello
