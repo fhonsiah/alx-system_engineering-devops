@@ -22,3 +22,5 @@ Learning objectives
     use the command # tail -n 1 iacta >> iacta
 # 11.A script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
     use a comand # find ./ -type f -name '*.js' -delete
+# 12.Don't just count your directories, make your directories count
+     use the command # find . -type d ! -path . -print | wc -l
