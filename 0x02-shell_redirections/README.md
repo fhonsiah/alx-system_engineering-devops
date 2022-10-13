@@ -6,3 +6,5 @@ Learning objectives
      use the command # echo "\"(Ôo)'"
 # 3.A command to dislpay the content of the /etc/passwd file
     use the command # cat /etc/passwd
+# 4.Display the contents of the two files /etc/passwd /etc/hosts
+    use the command # cat /etc/passwd /etc/hosts
