@@ -10,3 +10,5 @@ Learning objectives
     use the command # cat /etc/passwd /etc/hosts
 # 5.Display the last 10 lines of the file /etc/passwd
    use the command # tail -n 10 /etc/passwd
+# 6.Display the first 10 lines of /etc/passwd
+    use the command # head -n 10 /etc/passwd
