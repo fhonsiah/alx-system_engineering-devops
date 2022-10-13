@@ -18,3 +18,5 @@ Learning objectives
    use the command echo "Best School" >> \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
 # 9.A script that write into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
    use the commnd # ls -la > ls_cwd_content
+# 10.Write a script that duplicates the last line of the file iacta
+    use the command # tail -n 1 iacta >> iacta
