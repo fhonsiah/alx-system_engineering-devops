@@ -12,3 +12,5 @@ Learning objectives
    use the command # tail -n 10 /etc/passwd
 # 6.Display the first 10 lines of /etc/passwd
     use the command # head -n 10 /etc/passwd
+# 7. Display the third line of the file iacta
+    use the command # head -n 3 iacta | tail -n 1
