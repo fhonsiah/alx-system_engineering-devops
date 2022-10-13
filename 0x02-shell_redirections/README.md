@@ -24,3 +24,5 @@ Learning objectives
     use a comand # find ./ -type f -name '*.js' -delete
 # 12.Don't just count your directories, make your directories count
      use the command # find . -type d ! -path . -print | wc -l
+# 13.A script that displays the 10 newest files in the current directory.Onefile per line,Sorted from the newest to the oldest.
+     use the command # ls -lc | head -n 10
