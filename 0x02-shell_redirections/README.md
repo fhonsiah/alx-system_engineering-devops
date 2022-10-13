@@ -8,3 +8,5 @@ Learning objectives
     use the command # cat /etc/passwd
 # 4.Display the contents of the two files /etc/passwd /etc/hosts
     use the command # cat /etc/passwd /etc/hosts
+# 5.Display the last 10 lines of the file /etc/passwd
+   use the command # tail -n 10 /etc/passwd
