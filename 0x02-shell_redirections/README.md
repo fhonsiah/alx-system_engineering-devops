@@ -4,3 +4,5 @@ Learning objectives
      use the command # echo "Hello,World"
 # 2. A script that displays a confused smiley "(Ôo)'
      use the command # echo "\"(Ôo)'"
+# 3.A command to dislpay the content of the /etc/passwd file
+    use the command # cat /etc/passwd
