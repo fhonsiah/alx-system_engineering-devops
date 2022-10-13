@@ -15,4 +15,4 @@ Learning objectives
 # 7. Display the third line of the file iacta
     use the command # head -n 3 iacta | tail -n 1
 # 8.A shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
-   use the command echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+   use the command echo "Best School" >> \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
